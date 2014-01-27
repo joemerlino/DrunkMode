@@ -1,0 +1,14 @@
+Package: me.qusic.drunkmode
+Version: 0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: Drunk Mode
+Description: adds drunk mode toggle to Settings
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Qusic <QusicS@Me.com>
+Tag: purpose::extension
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=drunkmodeDp
+dev: qusic
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=drunkmodeDp
